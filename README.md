@@ -53,6 +53,7 @@ This dataset focuses specifically on the 2022 edition. Data preprocessing steps 
 
 Imputation of missing home/away team values
 Interpretation of ranking-based variables (e.g., W63–L1, where W represents the winner’s FIFA ranking and L the loser’s ranking)
+
 📈 Analysis Performed
 1. World Cup Evolution Analysis
 
